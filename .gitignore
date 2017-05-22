@@ -1,0 +1,12 @@
+*.iml
+*.xml
+test.txt
+train.txt
+t1_weight
+t2_weight
+t3_weight
+learningToRank.db
+out1.txt
+out2.txt
+out3.txt
+src/out 測試完畢
